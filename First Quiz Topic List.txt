@@ -1,0 +1,41 @@
+python
+	list basics - lists are dynamic
+	defining a function
+	if statements, for loops, variables
+	running python from command line (python3 name.py)	
+
+cmd line
+	difference between stdin v. command line args
+	know how to do both of the above types of input
+	cat, less, vim - viewing file contents
+	cd, ls, clear, q (quit with catting or in vim), rm
+	grep - search for a pattern in a file
+	python3 - launches interactive interpreter 
+	bash	
+		pipe (|) - sends stdout from one program/cmd to stdin of another
+		redirect (>) - sends stdout from prog/cmd into file
+
+neural nets - 3b1b videos
+	cost function
+		way to perform how bad NN performed on batch or single example
+		RSME 
+	*back-prop 
+		used to minimize cost function of NN by going from output layer to first layer and adjusting weights
+		happens after computing cost for (one batch of training examples or a single example - single example is extremely computationally expensive)  	
+		application of grad descent to the network 
+	activation function
+		purpose - squishifying the weighted sum from previous layer  
+		introduces non-linearalities into model, turns NN from LR to actual deep learning		
+		sigmoid - squishes nums between -1 and 1
+		RELU - 
+	*grad descent 
+		determining set of changes to weights to minimize cost
+	overfitting v. underfitting
+
+quiz focus is on NNs
+
+Study Plan:
+1. do 3-5 coding bat pratice problems
+2. pratice cmd line with dad (and also python number examples and stuff) 
+3. rewatch 3b1b vids and take notes
+4. reread first chapter of ml book
