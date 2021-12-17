@@ -35,7 +35,7 @@ neural nets - 3b1b videos
 quiz focus is on NNs
 
 Study Plan:
-1. do 3-5 coding bat pratice problems
+1. do 3-5 coding bat pratice problems (DONE)
 2. pratice cmd line with dad (and also python number examples and stuff) 
 3. rewatch 3b1b vids and take notes
 4. reread first chapter of ml book
